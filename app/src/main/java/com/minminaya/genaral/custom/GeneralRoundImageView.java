@@ -5,9 +5,9 @@ import android.graphics.Canvas;
 import android.support.annotation.Nullable;
 import android.support.v7.widget.AppCompatImageView;
 import android.util.AttributeSet;
-import com.minminaya.R;
 import com.minminaya.abs.GeneralRoundViewImpl;
 import com.minminaya.abs.IRoundView;
+import com.minminaya.genaral.R;
 
 /**
  * 自定义view增加圆角裁剪
