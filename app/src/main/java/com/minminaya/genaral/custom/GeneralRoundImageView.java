@@ -56,8 +56,8 @@ public class GeneralRoundImageView extends AppCompatImageView implements IRoundV
         generalRoundViewImpl = new GeneralRoundViewImpl(view,
                 context,
                 attrs,
-                R.styleable.GeneralRoundLinearLayout,
-                R.styleable.GeneralRoundLinearLayout_corner_radius);
+                R.styleable.GeneralRoundImageView,
+                R.styleable.GeneralRoundImageView_corner_radius);
     }
 
 }
