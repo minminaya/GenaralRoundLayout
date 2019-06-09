@@ -11,6 +11,7 @@ Android通用圆角布局，可以解决Android P版本xfermode方案裁剪黑�
 - 1、之前使用的XferMode裁剪方案在P版本失效
 - 2、xfermode圆角裁剪方案在RecyclerView中使用，滑动时会出现EGL内存泄露问题（系统api未做好内存回收），使用GeneralRound，可以解决L版本上的机器
 - 3、希望可以快速将一个View装饰包装变成支持裁剪圆角的View
+- 4、不希望关闭硬件加速去绘制圆角，不希望使用有锯齿的clipPath API
 
 ---
 
