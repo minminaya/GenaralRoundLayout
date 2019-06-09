@@ -14,7 +14,7 @@ Android通用圆角布局，可以解决Android P版本xfermode方案裁剪黑�
 
 ---
 
-### GETTING START
+### GETTING STARTED
 
 ###### 导入GeneralRoundLayout依赖
 
