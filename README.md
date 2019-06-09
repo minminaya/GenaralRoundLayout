@@ -2,7 +2,7 @@
 
 Android通用圆角布局，可以解决Android P版本xfermode方案裁剪黑边问题和xfermode在列表view中使用滑动时EGL内存泄露问题
 
-[![Vs1sjf.png](https://s2.ax1x.com/2019/06/09/Vs1sjf.png)](https://imgchr.com/i/Vs1sjf)
+[![Vs1OUJ.png](https://s2.ax1x.com/2019/06/09/Vs1OUJ.png)](https://imgchr.com/i/Vs1OUJ)
 
 ---
 
